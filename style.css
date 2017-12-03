@@ -7,21 +7,36 @@
 }
 
 #title {
-    background: yellow;
-    /*add CSS here*/
+    background: yellow;;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left:100px;
+    margin-right:100px;
+    display: block
+    
+   
     
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: block;
+    
     
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
+    margin-top: 10px;
+    margin-bottom: 75px;
+    margin-right: 75px;
+    margin-left: 75px;
+    display: inline-block
     
 }
 
